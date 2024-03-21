@@ -1,0 +1,30 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a-) 1, 3, 5, 7, ___
+Está aumentando de 2 em 2. Portanto, o próximo número seria 9.
+R: 9
+
+b-) 2, 4, 8, 16, 32, 64, ____
+Cada número é o dobro do anterior. Então, o próximo número seria 128.
+R: 128
+
+c-) 0, 1, 4, 9, 16, 25, 36, ____
+Os números estão seguindo o padrão dos quadrados dos números naturais, o próximo número seria 49.
+R: 49
+
+d-) 4, 16, 36, 64, ____
+Essa, os números pares são elevados ao quadrado. Portanto, o próximo número seria o quadrado de 8, que é 64.
+R: 100
+
+e-) 1, 1, 2, 3, 5, 8, ____
+Esta é a sequência de Fibonacci. O próximo número seria a soma dos dois números anteriores, que é 13.
+R: 13
+
+f-) 2,10, 12, 16, 17, 18, 19, ____
+Cada número é aumentado em uma quantidade diferente em cada etapa. O padrão é que cada número é aumentado pelo número de letras no número escrito em inglês. Então, o próximo número seria 22 (dezenove tem oito letras em inglês). 
+R: 22
+
+
+
+
+
